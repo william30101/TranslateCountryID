@@ -1,0 +1,22 @@
+{
+  "name": "translatecountryid",
+  "version": "1.0.0",
+  "description": "How to Use :",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/william30101/TranslateCountryID.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/william30101/TranslateCountryID/issues"
+  },
+  "homepage": "https://github.com/william30101/TranslateCountryID#readme",
+  "dependencies": {
+    "i18n-iso-countries": "^3.2.2"
+  }
+}
